@@ -1,3 +1,3 @@
 #!/bin/bash
-systemctl start apache2
+systemctl stop apache2
 systemctl reload apache2
